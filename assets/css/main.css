@@ -612,7 +612,8 @@ a.back-to-top:focus {
 }
 
 .navbar-brand img {
-    width: 75%;
+    max-width: 25%;
+    height: 100%;
 }
 
 .top-nav-collapse {
